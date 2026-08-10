@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: licenzionnye-onlayn-kazino.github.io
+Sitemap: https://licenzionnye-onlayn-kazino.github.io/sitemap.xml
